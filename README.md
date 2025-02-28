@@ -20,6 +20,8 @@ Ordered Lists
 2. 2nd Line
 3. 3rd Line
 
+Horizontal Line
+
 ------------
 
 Unordered Lists
@@ -36,3 +38,9 @@ Unordered Lists
 |Git|GitHub|
 |---|-----|
 |DVCS|Remote Hosting Service|
+
+#include<stdio.h>
+int main()
+{
+}
+
