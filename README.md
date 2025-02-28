@@ -40,8 +40,12 @@ Unordered Lists
 |DVCS|Remote Hosting Service|
 
 `code`
+
+```
 #include<stdio.h>
 int main()
 {
+scanf("APSSDC Workshop");
 }
+```
 
