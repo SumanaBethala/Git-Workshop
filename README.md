@@ -51,5 +51,5 @@ scanf("APSSDC Workshop");
 
 - [ ] C Programming
 - [ ] Python Programming
-- [ ] Git
+- [X] Git
 - [ ] SQL
