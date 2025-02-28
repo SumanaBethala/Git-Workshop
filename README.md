@@ -11,4 +11,6 @@ APSSDC **GIT Workshop** --> Bold
 
 APSSDC ***GIT Workshop*** --> Bold Italic
 
-APSSDC ~~GITHUB~~ GIT Workshop
+APSSDC ~~GITHUB~~ GIT Workshop --> Strikethrough
+
+> Blackquote
