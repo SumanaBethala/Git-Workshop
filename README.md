@@ -5,5 +5,8 @@
 ##### Heading 5
 ###### Heading 6
 
-APSSDC **GIT** Workshop
-APSSDC *GIT Workshop*
+APSSDC *GIT Workshop*  --> Italic
+
+APSSDC **GIT Workshop** --> Bold
+
+APSSDC ***GIT Workshop*** --> Bold Italic
