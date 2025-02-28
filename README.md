@@ -49,3 +49,7 @@ scanf("APSSDC Workshop");
 }
 ```
 
+-[ ] C Programming
+-[ ] Python Programming
+-[ ] Git
+-[ ] SQL
