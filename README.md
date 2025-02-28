@@ -14,3 +14,13 @@ APSSDC ***GIT Workshop*** --> Bold Italic
 APSSDC ~~GITHUB~~ GIT Workshop --> Strikethrough
 
 > Blackquote
+
+Ordered Lists
+1. 1st Line
+2. 2nd Line
+3. 3rd Line
+
+Unordered Lists
+- 1st Line
+- 2nd Line
++ 3rd Line
