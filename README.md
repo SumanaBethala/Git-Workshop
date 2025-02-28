@@ -34,4 +34,5 @@ Unordered Lists
 ![GitHub Image](https://static.vecteezy.com/system/resources/previews/025/270/417/original/github-logo-icon-free-vector.jpg)
 
 |Git|GitHub|
+|---|-----|
 |DVCS|Remote Hosting Service|
