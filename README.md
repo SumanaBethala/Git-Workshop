@@ -5,9 +5,9 @@
 ##### Heading 5
 ###### Heading 6
 
-APSSDC *GIT Workshop*  --> Italic
+APSSDC *GIT Workshop*  --> I[^1]
 
-APSSDC **GIT Workshop** --> Bold
+APSSDC **GIT Workshop** --> B[^2]
 
 APSSDC ***GIT Workshop*** --> Bold Italic
 
@@ -54,5 +54,7 @@ scanf("APSSDC Workshop");
 - [X] Git
 - [ ] SQL
 
-This is the md[^1] file used to describe about my repository
-[^1]: MarkDown
+This is the md[^3] file used to describe about my repository
+[^1]: Italic
+[^2]: Bold
+[^3]: MarkDown
